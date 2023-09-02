@@ -19,7 +19,7 @@ void main (){
 
 // print(name is! String );
 
-// bool a = true;
+bool a = true;
 
 // bool b = false;
 
