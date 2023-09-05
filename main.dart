@@ -1,37 +1,54 @@
 void main (){
 
-
-
-
-  for (int i=0; i<10; i++){
-      print(i);
-
+  var a =0;
+  if (a == 10){
+  print ("Верно");
+  }
+  else {
+    print ('Неверно');
   }
 
-  // double a = 4.5;
-  // var b = 2;
-  // print (a.round());
-// var num = 10;
+  if (a==0){
+    print ("Верно");
+  } else {
+    print ("Неверно");
+  }
 
-// var name = "DartTpoint";
+   if (a>0){
+    print ("Верно");  
+  } else {
+    print ("Неверно");
+  }
+   if (a<0){
+    print ("Верно");
+  } else {
+    print ("Неверно");
+  }
 
-// print(a.isEven);
+   if (a>=0){
+    print ("Верно");
+  } else {
+    print ("Неверно");
+  }
+   if (a<=0){
+    print ("Верно");
+  } else {
+    print ("Неверно");
+  }
+   if (a!=0){
+    print ("Верно");
+  } else {
+    print ("Неверно");
+  }
+   if (a=="test"){
+    print ("Верно");
+  } else {
+    print ("Неверно");
+  }
 
-// print(name is! String );
-
-bool a = true;
-
-// bool b = false;
-
-// var c = a && b;
-
-// print(c);
-
-// c = b || a;
-
-// print(c);
-
-// c = !(a || b);
-
-// print(c);
-}
+  if (a=="1"){
+    print ("Верно");
+  } else {
+    print ("Неверно");
+  }
+} 
